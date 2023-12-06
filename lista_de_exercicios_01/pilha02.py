@@ -1,4 +1,4 @@
-pilha = list(range(1, 6))  # Inicializa a pilha com números de 1 a 5
+pilha = list(range(1, 6)) 
 
 while True:
     print("\nOpções:")
